@@ -24,7 +24,7 @@
 
 <br>
 
-## 🎬 Contributors
+## 👨🏻‍💻 Contributors
 
 <a href="https://github.com/techsum-org/tech_study/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=techsum-org/tech_study" />
@@ -35,12 +35,6 @@
 <br>
 
 ## 💻 commit 규칙
-
-Commit convention rule : 날짜-[주제]-내용-상태
-
-ex) 2019-10-14 [Algorithm] Sort Add/Update/Delete
-
-
 
 - Commit
     - Commit 규칙을 통해 각 branch 별 commit 사항을 관리한다.
@@ -66,18 +60,23 @@ ex) 2019-10-14 [Algorithm] Sort Add/Update/Delete
         
         ex) commit message example
         
-        `feat (os1주차) : os1주차 md 파일 생성 `
+          `feat (os1주차) : os1주차 md 파일 생성`
+        
+          `update(os1주차) : os1차 A내용 수정`
+        
+          `img(os1주차) : img파일 추가`
+        
 
 
 <br>
 
-## 📺 진행방식
+## 📽 진행 방식
 
 <br>
   
 
 
-## 📺 키워드
+## 📺 스터디 키워드
 
  📍Operating System
   * 운영체제란
