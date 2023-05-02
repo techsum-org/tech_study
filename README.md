@@ -26,7 +26,7 @@
 
 ## 🎬 Contributors
 
-<a href = "https://github.com/techsum.org/tech_study/graphs/contributors">
+<a href = "https://github.com/techsum-org/tech_study/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo = JiYongKim/tech_study"/>
 </a>
 
