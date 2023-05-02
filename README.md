@@ -1,10 +1,10 @@
 <div align="center">
   
-<img width="476" alt="스크린샷 2022-11-21 오후 4 51 44" src="https://user-images.githubusercontent.com/81874493/202994403-2141bc71-076c-4a3f-b1db-9f2d13893774.png">
+
+<img width="445" alt="스크린샷 2023-05-02 오전 11 25 18" src="https://user-images.githubusercontent.com/81874493/235566260-55975eae-d712-45c0-b510-098a82392f1e.png">
 
 <br>
-	
-# Tech_study
+
 <img src="https://img.shields.io/badge/OS-007396?style=for-the-badge&logo=pcgamingwiki&logoColor=white">
  <img src="https://img.shields.io/badge/CS-E34F26?style=for-the-badge&logo=readthedocs&Color=white"> <img src="https://img.shields.io/badge/Network-1572B6?style=for-the-badge&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/DB-7952B3?style=for-the-badge&logo=amazondynamodb&logoColor=white">
 
