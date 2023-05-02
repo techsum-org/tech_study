@@ -17,16 +17,20 @@
 
 <br>
 
-## 🎬 어떤 Repository
+## 🎬 TechSum
 
- ‘User_athentication_service’ 웹 어플리케이션은 로그인을 통한 사용자 인증 시스템 프레임을 구성한것 입니다.
-
-스프링 프레임워크를 이용한 프로젝트 진행시 사용자 인증 시스템이 중복되어 공통된 사용자 인증 시스템 형식을 구성하여 이후 다른 프로젝트 진행시 참고할 수 있도록 구성 하였습니다.
+ 신입 개발자 전공 지식을 공부하고 기술 면접 대비 정리본을 위한 Repository 입니다.
 
 
 <br>
 
 ## 💻 commit 규칙
+
+<br>
+
+Commit convention rule : 날짜-[주제]-내용-상태
+
+ex) 2019-10-14 [Algorithm] Sort Add/Update/Delete
 
 <br>
 
@@ -37,10 +41,83 @@
 
 
 ## 📺 키워드
+
+ 📍Operating System
+  * 운영체제란
+  * 프로세스 vs 스레드
+  * 프로세스 주소 공간
+  * 인터럽트(Interrupt)
+  * 시스템 콜(System Call)
+  * PCB와 Context Switching
+  * IPC(Inter Process Communication)
+  * CPU 스케줄링
+  * 데드락(DeadLock)
+  * Race Condition
+  * 세마포어(Semaphore) & 뮤텍스(Mutex)
+  * 페이징 & 세그먼테이션 (PDF)
+  * 페이지 교체 알고리즘
+  * 메모리(Memory)
+  * 파일 시스템
+<br>
+
+ 📍Network
+  * OSI 7 계층
+  * TCP 3 way handshake & 4 way handshake
+  * TCP/IP 흐름제어 & 혼잡제어
+  * UDP
+  * HTTP & HTTPS
+  * TLS/SSL handshake
+<br>
+
+ 📍CS
+ 컴퓨터 구조 기초
+컴퓨터의 구성
+중앙처리장치(CPU) 작동 원리
+캐시 메모리
+고정 소수점 & 부동 소수점
+패리티 비트 & 해밍 코드
+ARM 프로세서
+클린코드 & 리팩토링 / 클린코드 & 시큐어코딩
+TDD(Test Driven Development)
+애자일(Agile) 정리1 / 애자일(Agile) 정리2
+객체 지향 프로그래밍(Object-Oriented Programming)
+함수형 프로그래밍(Fuctional Programming)
+데브옵스(DevOps)
+서드 파티(3rd party)란?
+마이크로서비스 아키텍처(MSA)
+ 
+ 
+ 📍DB
+ 
+ 
+ 📍Design Pattern
+디자인패턴 개요(Overview)
+어댑터 패턴
+싱글톤 패턴
+탬플릿 메소드 패턴
+팩토리 메소드 패턴
+옵저버 패턴
+스트레티지 패턴
+컴포지트 패턴
+SOLID
+
   
-  [회원 가입]
+ 
+ <br>
+ 
+ 📍Web System
+  * 브라우저 동작 방법
+  * 쿠키(Cookie) & 세션(Session)
+  * HTTP Request Methods
+  * HTTP Status Code
+  * REST API
+  * 웹 서버와 WAS의 차이점
+  * JWT(JSON Web Token)
+  * Authentication and Authorization
+  * 로그 레벨
+  * CSR & SSR
+  * 네이티브 앱 & 웹 앱 & 하이브리드 앱
   
-  <img width="457" alt="스크린샷 2022-11-21 오후 5 52 52" src="https://user-images.githubusercontent.com/81874493/203006927-783fa1d5-0d2a-45b4-b327-90f71d9f00d1.png">
 
 
 
