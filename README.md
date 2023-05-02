@@ -30,15 +30,44 @@
   <img src="https://contrib.rocks/image?repo=techsum-org/tech_study" />
 </a>
 
-
-
-## 💻 commit 규칙
+<br>
 
 <br>
+
+## 💻 commit 규칙
 
 Commit convention rule : 날짜-[주제]-내용-상태
 
 ex) 2019-10-14 [Algorithm] Sort Add/Update/Delete
+
+
+
+- Commit
+    - Commit 규칙을 통해 각 branch 별 commit 사항을 관리한다.
+
+    <br>
+    
+    - commit message
+        - 형식
+            
+            ```markdown
+            <type> (<scope>): <explain>          
+            ```
+            
+            <br>
+            
+        - type
+            - feat : 새로운 추가 파일에 대한 커밋
+            - update : 수정에 대한 커밋
+            - img : 이미지 파일 추가에 대한 커밋
+            
+        
+        <br>
+        
+        ex) commit message example
+        
+        `feat (os1주차) : os1주차 md 파일 생성 `
+
 
 <br>
 
