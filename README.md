@@ -75,39 +75,46 @@ ex) 2019-10-14 [Algorithm] Sort Add/Update/Delete
   * UDP
   * HTTP & HTTPS
   * TLS/SSL handshake
+  
 <br>
 
  📍CS
- 컴퓨터 구조 기초
-컴퓨터의 구성
-중앙처리장치(CPU) 작동 원리
-캐시 메모리
-고정 소수점 & 부동 소수점
-패리티 비트 & 해밍 코드
-ARM 프로세서
-클린코드 & 리팩토링 / 클린코드 & 시큐어코딩
-TDD(Test Driven Development)
-애자일(Agile) 정리1 / 애자일(Agile) 정리2
-객체 지향 프로그래밍(Object-Oriented Programming)
-함수형 프로그래밍(Fuctional Programming)
-데브옵스(DevOps)
-서드 파티(3rd party)란?
-마이크로서비스 아키텍처(MSA)
+  * 컴퓨터 구조 기초
+  * 컴퓨터의 구성
+  * 중앙처리장치(CPU) 작동 원리
+  * 캐시 메모리
+  * 고정 소수점 & 부동 소수점
+  * 패리티 비트 & 해밍 코드
+  * ARM 프로세서
+  * 클린코드 & 리팩토링 / 클린코드 & 시큐어코딩
+  * TDD(Test Driven Development)
+  * 애자일(Agile) 정리1 / 애자일(Agile) 정리2
+  * 객체 지향 프로그래밍(Object-Oriented Programming)
+  * 함수형 프로그래밍(Fuctional Programming)
+  * 데브옵스(DevOps)
+  * 마이크로서비스 아키텍처(MSA)
  
+ <br>
  
  📍DB
+  * 인덱스
+  * 테이블 설계와 정규화
+  * 트랜잭션
+  * 바이너리 로그
+  * 트랜잭션 locking
  
+ <br>
  
  📍Design Pattern
-디자인패턴 개요(Overview)
-어댑터 패턴
-싱글톤 패턴
-탬플릿 메소드 패턴
-팩토리 메소드 패턴
-옵저버 패턴
-스트레티지 패턴
-컴포지트 패턴
-SOLID
+  * 디자인패턴 개요(Overview)
+  * 어댑터 패턴
+  * 싱글톤 패턴
+  * 탬플릿 메소드 패턴
+  * 팩토리 메소드 패턴
+  * 옵저버 패턴
+  * 스트레티지 패턴
+  * 컴포지트 패턴
+  * SOLID
 
   
  
