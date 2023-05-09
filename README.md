@@ -63,6 +63,7 @@
 
 ## 😸 Github 사용하기
 [Git 연동 방법](https://www.notion.so/Git-3106b27169a346658c5139adb541830c?pvs=4)
+
 [Git branch 만들기](https://www.notion.so/Git-branch-16b580f2b26344a8802e1cdea2e754f9?pvs=4)
 
 <br>
