@@ -35,6 +35,7 @@
 <br>
 
 ## 💻 commit 규칙
+[GIT연동 방법](https://www.notion.so/Git-3106b27169a346658c5139adb541830c?pvs=4)
 
 - Commit
     - Commit 규칙을 통해 각 branch 별 commit 사항을 관리한다.
