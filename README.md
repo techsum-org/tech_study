@@ -34,8 +34,39 @@
 
 <br>
 
-## 💻 commit 규칙
+## 🗂 폴더 구조
+```bash
+└─ tech_study
+    ├── JiYongKim
+    |   └── OS
+    |       └── OS_01
+    ├── hobinLee
+    └── suhaLee
+
+└─  techSum
+    ├── OS
+    |   ├── os.md
+    |   ├── process_thread.md
+    |   └── ...etc
+    ├── Network
+    ├── CS
+    └── DB
+``` 
+* tech_study
+  * 각자 주차별 키워드 자료조사 및 정리
+  * 각각의 폴더를 생성하여 사용하며 자신의 폴더가 아닌 폴더는 사용하지 않는다.
+
+* techSUm
+  * 발표 이후 피드백과 질문사항을 참고하여 각자 정해진 키워드별로 정리본을 추가한다.  
+  
+<br>
+
+## 😸 Github 사용하기
 [GIT연동 방법](https://www.notion.so/Git-3106b27169a346658c5139adb541830c?pvs=4)
+
+<br>
+
+## 💻 commit 규칙
 
 - Commit
     - Commit 규칙을 통해 각 branch 별 commit 사항을 관리한다.
