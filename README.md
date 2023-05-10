@@ -66,6 +66,8 @@
 
 [Git branch 만들기](https://www.notion.so/Git-branch-16b580f2b26344a8802e1cdea2e754f9?pvs=4)
 
+[Git 기본 명령어](https://private-possum-5a6.notion.site/Git-8dd7e6646a72438783f281363ec91da5)
+
 <br>
 
 ## 💻 commit 규칙
