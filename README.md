@@ -1,7 +1,7 @@
 <div align="center">
   
 
-<img width="445" alt="스크린샷 2023-05-02 오전 11 25 18" src="https://user-images.githubusercontent.com/81874493/235566260-55975eae-d712-45c0-b510-098a82392f1e.png">
+<img width="445" alt="스크린샷 2023-05-02 오전 11 25 18" src="https://user-images.githubusercontent.com/81874493/235566260-55975eae-d712-45c0-b510-098a82392f1e.png">
 
 <br>
 
@@ -209,10 +209,5 @@
   * CSR & SSR
   * 네이티브 앱 & 웹 앱 & 하이브리드 앱
   
-
-
-
-
-
 
 
