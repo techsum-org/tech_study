@@ -169,5 +169,8 @@ C언어는 **컴파일 언어**이기 때문에 컴파일을 해야 실행가능
 
     <img src="https://velog.velcdn.com/images/minseong1459/post/d2a8ce44-d72c-4947-96a1-242dc8418227/image.png" height="80%" width="80%">
 
+---
+
+
 
 
