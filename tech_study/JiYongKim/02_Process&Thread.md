@@ -14,7 +14,8 @@
 ---
 
 ## 폰노이만 구조 & 하버드 구조
-<폰노이만 구조 이미지>
+<img width="665" alt="스크린샷 2023-05-18 오후 5 45 55" src="https://github.com/techsum-org/tech_study/assets/81874493/47279e94-fda9-48ff-9057-0878239eae5c">
+
 * 정의 : 폰노이만이 고안한 내장 메모리 순차처리 방식 구조
 
 <br>
@@ -67,7 +68,9 @@
 
 <br>
 
-<하버드 구조 이미지>
+
+<img width="681" alt="스크린샷 2023-05-18 오후 5 46 04" src="https://github.com/techsum-org/tech_study/assets/81874493/2ac1bf60-5d95-4391-afb3-8145cc53b806">
+
 * 정의 : 폰노이만 구조의 병목 현상을 극복하기 위한 컴퓨터 아키텍처중 하나이다.
 
 * 특징
@@ -98,13 +101,15 @@
 
 ## Process란 무엇인가
 
-<Process 이미지>
+<img width="452" alt="스크린샷 2023-05-18 오후 5 47 15" src="https://github.com/techsum-org/tech_study/assets/81874493/697ae084-8700-4ec6-8b3e-51825ea681a4">
 
 * 정의 : 프로세스란 운영체제로부터 자원을 할당받아 프로그램이 메모리 상으로 올라갔을 때의 상태를 의미한다.
 
 <br>
 
-<프로세스 구조 이미지>
+<img width="685" alt="스크린샷 2023-05-18 오후 5 48 16" src="https://github.com/techsum-org/tech_study/assets/81874493/c57cd31c-579b-487c-9cc4-8e6ce2b001d2">
+
+
 * 프로세스 구조
   - text(CODE): 컴파일된 소스 코드가 저장되는 영역
   - data: 전역 변수/초기화된 데이터가 저장되는 영역(BSS + Data)
@@ -120,7 +125,8 @@
 
 ## Process의 상태
 
-<프로세스 상태 이미지>
+<img width="715" alt="스크린샷 2023-05-18 오후 5 46 47" src="https://github.com/techsum-org/tech_study/assets/81874493/a5486b81-d154-4be7-b966-b312e31557d2">
+
 
 * 생성상태 -> 준비상태
     
@@ -214,15 +220,11 @@ Process 생성에는 크게 두가지 방식으로 구분된다
 
 ## Thread란 무엇인가
 
-<Thread 이미지>
+<img width="685" alt="스크린샷 2023-05-18 오후 5 48 16" src="https://github.com/techsum-org/tech_study/assets/81874493/c6635e87-89b4-4dc3-bad0-f6285cc022a6">
 
 * 정의 : 스레드는 프로세스 내에서 운영체제로부터 할당받은 자원을 이용하여 작업을 수행하는 단위를 의미한다.
  
 
-
-<br>
-
-<Thread구조 이미지>
 * Thread 구조
   * 스레드는 프로세스 내에서 각각 Stack만 할당받고 Code, Data, Heap영역은 공유된다.
   *  한 프로세스 내에서 동작되는 여러 실행의 흐름이며 프로세스내의 주소공간이나 자원(Heap) 등과 같은 프로세스 내에 스레드끼리 공유하면서 실행이 됩니다.
