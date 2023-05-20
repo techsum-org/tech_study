@@ -15,7 +15,7 @@
 
 ## Memory 구조
 
-<메모리구조이미지>
+<img width="405" alt="스크린샷 2023-05-19 오전 6 25 11" src="https://github.com/techsum-org/tech_study/assets/81874493/2414a126-ae15-4495-97d0-02ee8e2acf22">
 
 - Text(code) 영역: 텍스트 영역은 쉽게 말하면 코드를 실행하기 위해 저장되어있는 영역이다.
 
@@ -49,7 +49,7 @@
 
 ## Process와 Thread 구조
 
-<Process와 Thread 구조 이미지>
+<img width="440" alt="스크린샷 2023-05-19 오전 6 29 49" src="https://github.com/techsum-org/tech_study/assets/81874493/e8da3483-ba31-4fc9-9e96-a101518cabb3">
 
 프로세스란 운영체제로부터 자원을 할당받아 프로그램이 메모리 상으로 올라갔을 때의 상태를 의미한다.
 
@@ -65,7 +65,7 @@
 
 ## Process와 Thread의 생성 비용
 
-<Process와 Thread 구조 이미지>
+<img width="440" alt="스크린샷 2023-05-19 오전 6 29 49" src="https://github.com/techsum-org/tech_study/assets/81874493/cd2b7c81-c84d-40ec-a846-3b4f382056e4">
 
 * 프로세스 생성시 ( fork() → exec()방식 )
   - OS 로부터 할당받아야 하는 용량
@@ -100,8 +100,8 @@
 
 
 ## Thread의 Stack과 Register를 독립적으로 할당 하는 이유
+<img width="808" alt="스크린샷 2023-05-20 오후 4 05 18" src="https://github.com/techsum-org/tech_study/assets/81874493/1d27b6c3-0410-44c6-90ca-2fc2ed15acb8">
 
-<Process와 Thread 구조 이미지>
 
 - Thread의 Stack을 독립적으로 할당하는 이유
   - 스택은 <U>함수 호출 시 전달되는 인자, 되돌아갈 주소값 및 함수 내에서 선언하는 변수 등을 저장하기 위해 사용되는 메모리 공간</U>이다.
