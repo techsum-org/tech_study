@@ -127,9 +127,9 @@
 ## 📺 스터디 키워드
 
  📍Operating System
-  * 운영체제란
-  * 프로세스 vs 스레드
-  * 프로세스 주소 공간
+  * [운영체제란](https://github.com/techsum-org/tech_study/blob/main/techSum/01_Operating_System_Q%26A.md)
+  * [프로세스 vs 스레드](https://github.com/techsum-org/tech_study/blob/main/techSum/02_Process_Address_Space.md)
+  * [프로세스 주소 공간](https://github.com/techsum-org/tech_study/blob/main/techSum/03_Process_address.md)
   * 인터럽트(Interrupt)
   * 시스템 콜(System Call)
   * PCB와 Context Switching
