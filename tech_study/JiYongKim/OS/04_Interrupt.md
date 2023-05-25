@@ -15,7 +15,6 @@
 ---
 
 ## Polling 방식이란?
-<img width="665" alt="폴링 방식" src="">
 
 * 정의 : 운영체제가 하드웨어 장치의 상태 레지스터를 읽음으로써 <U>명령의 수신 여부를 주기적으로 확인</U>하는 방법이다. 
 
@@ -39,7 +38,6 @@
 ---
 
 ## Interrupt 방식이란?
-<img width="665" alt="interrupt 방식" src="">
 
 * 정의 : 인터럽트는 란 마이크로프로세서(CPU)가 프로그램을 실행하고 있을 때, 입출력 하드웨어 등의 장치에 예외상황이 발생하여 처리가 필요할 경우에 <U>마이크로 프로세서에게 알려 처리하고 다시 실행중인 작업으로 복귀 할 수 있도록 하는 것</U>을 의미한다.
   
@@ -69,7 +67,7 @@
 ---
 
 ## 인터럽트의 처리
-<img width="665" alt="interrupt 처리" src="">
+<img width="665" alt="interrupt 처리" src="https://github.com/techsum-org/tech_study/assets/81874493/8df7d331-423c-4a24-8e79-290cb55b84b1">
 
 1. 인터럽트 요청
 2. 프로그램 실행 중단
@@ -109,8 +107,9 @@
 
 ---
 
+
 ## Interrupt Vector란?
-<img width="665" alt="interrupt Vector" src="">
+<img width="665" alt="interrupt Vector" src="https://github.com/techsum-org/tech_study/assets/81874493/e1207c57-31a7-444a-aa03-a18ac0aae57e">
 
 * 정의 : 인터럽트 벡터는 인터럽트가 발생했을 때, 그 인터럽트를 처리할 수 있는 서비스 루틴들의 주소를 가지고 있는 공간이다.
 
