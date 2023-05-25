@@ -14,7 +14,7 @@
 ---
 
 ## System Call이란?
-<img width="665" alt="스크린샷 2023-05-18 오후 5 45 55" src="">
+<img width="675" alt="스크린샷 2023-05-26 오전 5 10 26" src="https://github.com/techsum-org/tech_study/assets/81874493/8fadbb2d-a9f6-4697-82ff-4ba736fe0353">
 
 * 정의 : 시스템 호출은 운영체제의 커널이 제공하는 서비스에 대하여 응용 프로그램의 요청에 따라 커널에 접근하기 위한 인터페이스 이다.
 
@@ -94,7 +94,7 @@
 ##  유저모드와 커널모드의 전환
 
 
-<img width="665" alt="유저모드와 커널 모드 전환" src="">
+<img width="865" alt="스크린샷 2023-05-26 오전 5 34 48" src="https://github.com/techsum-org/tech_study/assets/81874493/e57ce6d4-3644-445d-971f-8aee3dea5a48">
 
 프로세스가 실행되는 동안에 프로세스는 수없이 유저모드와 커널모드를 전환 하면서 실행이 된다.
 
@@ -108,7 +108,8 @@
 
 예시)
 
-<img width="665" alt="유저모드와 커널 모드 전환 예시" src="">
+
+<img width="665" alt="스크린샷 2023-05-26 오전 6 34 40" src="https://github.com/techsum-org/tech_study/assets/81874493/096d809a-1216-4b72-aede-6b6229f05311">
 
 예를 들어 프로세스가 실행되고있는 중에 라이브러리 함수나 유저 어플리케이션에서 I/O 요청이 왔을 경우 
 
