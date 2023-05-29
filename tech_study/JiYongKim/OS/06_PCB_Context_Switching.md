@@ -16,7 +16,9 @@
 ---
 
 ## PCB(Process Control Block)란 무엇인가?
-<img width="675" alt="pcb" src="">
+
+<img width="675" alt="pcb" src="https://github.com/techsum-org/tech_study/assets/81874493/518e8e6a-9572-4151-b1ff-df8be1e28e08">
+
 
 * 정의 : OS가 Process를 제어하기 위해 프로세스의 상태 정보를 저장해놓은 구조체이다.
 
@@ -52,7 +54,7 @@
 
 ## PCB 구조
 
-<img width="675" alt="pcb 구조" src="">
+<img width="675" alt="pcb 구조" src="https://github.com/techsum-org/tech_study/assets/81874493/e6c52f1e-1f72-43ee-b812-a34f66fd46c4">
 
 <br>
 
@@ -170,7 +172,7 @@
 
 ## TCB
 
-<img width="675" alt="TCB" src="">
+<img width="675" alt="TCB" src="https://github.com/techsum-org/tech_study/assets/81874493/8c80db23-447a-4341-b3fa-385b49be8554">
 
 * TCB는 thread 별로 존재하는 자료구조이며 PC값과 register set, 그리고 PCB를 가리키는 Pointer를 가진다.
 
@@ -183,7 +185,6 @@
 
 ## PCB 관리
 
-<img width="675" alt="pcb 관리" src="">
 
 * 운영체제는 빠르게 PCB 에 접근하기 위해서 프로세스 테이블을 사용해 각 프로세스의 PCB 를 관리하고 PCB 는 연결 리스트 방식으로 관리된다. 
 
@@ -282,7 +283,7 @@ Computer가 매번 하나의 Task만 처리할 수 있다면?
 
 ## Context Switching 과정
 
-<img width="675" alt="Context Switching 과정" src="">
+<img width="675" alt="Context Switching 과정" src="https://github.com/techsum-org/tech_study/assets/81874493/3589757a-33a5-49cc-9b36-9ee1d86e49d5">
 
 1. 현재 실행 중인 process의 상태정보를 PCB에 저장( PCB0 )
 
@@ -300,8 +301,6 @@ Computer가 매번 하나의 Task만 처리할 수 있다면?
 
 ##  Context Switching overhead
 
-
-<img width="865" alt="">
 
 >Context Switching 때 해당 CPU는 아무런 일을 하지 못한다. 따라서 컨텍스트 스위칭이 잦아지면 오히려 오버헤드가 발생해 효율(성능)이 떨어진다.
 
