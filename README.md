@@ -130,9 +130,9 @@
   * [운영체제란](https://github.com/techsum-org/tech_study/blob/main/techSum/01_Operating_System_Q%26A.md)
   * [프로세스 vs 스레드](https://github.com/techsum-org/tech_study/blob/main/techSum/02_Process_Address_Space.md)
   * [프로세스 주소 공간](https://github.com/techsum-org/tech_study/blob/main/techSum/03_Process_address.md)
-  * 인터럽트(Interrupt)
-  * 시스템 콜(System Call)
-  * PCB와 Context Switching
+  * [인터럽트(Interrupt)](https://github.com/techsum-org/tech_study/blob/main/techSum/04_Interrupt.md)
+  * [시스템 콜(System Call)](https://github.com/techsum-org/tech_study/blob/main/techSum/05_System_Call.md)
+  * [PCB와 Context Switching](https://github.com/techsum-org/tech_study/blob/main/techSum/06_PCB_and_Context_Switching.md)
   * IPC(Inter Process Communication)
   * CPU 스케줄링
   * 데드락(DeadLock)
