@@ -18,7 +18,7 @@
 
 ## Race Condition
 
-<img width="675" alt="경합조건" src="">
+<img width="675" alt="경합조건" src="https://github.com/techsum-org/tech_study/assets/81874493/7a449390-ff76-4822-98df-e2a72cf8d441">
 
 **경합(경쟁) 상태 (Race Condition)**
 
@@ -259,7 +259,7 @@
 ##  Dead Lock이란?
 
 
-<img width="865" alt="DeadLock" src="">
+<img width="865" alt="DeadLock" src="https://github.com/techsum-org/tech_study/assets/81874493/9fd81bf5-2ccf-4ff5-94a5-421ed6b4eda2">
 
 **Dead Lock**
 * 정의 : 두 개 이상의 프로세스나 스레드가 서로 자원을 얻지 못해서 다음 처리를 하지 못하는 상태로 무한히 다음 자원을 기다리게 되는 상태를 말한다.
@@ -377,7 +377,7 @@ Deadlock Avoidance는 Deadlock이 발생할 가능성이 있는 경우엔 아예
 
 1. Resource Allocation Graph Algorithm (자원 할당 그래프 알고리즘) 
 
-    <img width="675" alt="자원할당그래프" src="">
+    <img width="675" alt="자원할당그래프" src="https://github.com/techsum-org/tech_study/assets/81874493/bac3404d-310d-4b03-a741-54b289f4b8c4">
     
     <br>
 
